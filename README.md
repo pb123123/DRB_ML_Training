@@ -1,2 +1,2 @@
 # DRB_ML_Training
-### By Prof. Hyerim Bae and Jihwan Lee
+###### By Prof. Hyerim Bae and Prof. Jihwan Lee
