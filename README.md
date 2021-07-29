@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/54383353/127461532-55b8b93d-0c7c-4ab3-ae9f-dd37f264d7f6.png)
+![image](https://user-images.githubusercontent.com/54383353/127461752-0dc42cea-6808-42b1-bb21-8b884cd68a02.png)
+![image](https://user-images.githubusercontent.com/54383353/127462127-2fbfe309-0498-4eec-9da1-c7dc559aa4a2.png)
+
 # DRB_ML_Training
 ###### By Prof. Hyerim Bae and Prof. Jihwan Lee
 
