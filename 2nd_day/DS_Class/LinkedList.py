@@ -55,12 +55,8 @@ class LinkedList: # by Hyerim Bae
         self.numElem=self.numElem+1
         return v
 
-    def insertBefore(self, pos, elem):
-        v = DNode(elem, pos.getPrev(), pos)
-        (pos.getPrev()).setNext(v)
-        pos.setPrev(v)
-        self.numElem = self.numElem + 1
-        return v
+    #def insertBefore(self, pos, elem): Make your own code here
+
 
     def remove(self, pos):
         elem=pos.getElement()
