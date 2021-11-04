@@ -6,7 +6,7 @@
   2. 미분(8분): https://youtu.be/cXNe9vqmboI
 
 - 6교시
-
+ 
   1. Gradient Descent(11분): https://youtu.be/sb_Mo8DMFqY
   2. Loss Function(8분): https://youtu.be/9KAbjzGugVM
 
