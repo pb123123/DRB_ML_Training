@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/tykiww/projectpage/master/datasets/credit/Credit.csv
