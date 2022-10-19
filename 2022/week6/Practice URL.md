@@ -19,11 +19,28 @@ df = pd.read_csv('https://raw.githubusercontent.com/hrbae/DRB_ML_Training/main/2
 
 https://youtu.be/8MNwdsl3AlU
 
+### 데이터 로드 방법
+
+- 파일 위치: [week6 - car.csv](https://github.com/hrbae/DRB_ML_Training/blob/main/2022/week6/car.csv)
+
+```
+import pandas as pd
+df = pd.read_csv('https://raw.githubusercontent.com/hrbae/DRB_ML_Training/main/2022/week6/car.csv')
+```
 
 
 ## 6교시: 로지스틱 회귀분석
 
 https://youtu.be/t67FoibFA6Y
+
+### 데이터 로드 방법
+
+- 파일 위치: [week6 - loan.csv](https://github.com/hrbae/DRB_ML_Training/blob/main/2022/week6/Loans.csv)
+
+```
+import pandas as pd
+df = pd.read_csv('https://raw.githubusercontent.com/hrbae/DRB_ML_Training/main/2022/week6/Loans.csv')
+```
 
 
 
@@ -31,8 +48,26 @@ https://youtu.be/t67FoibFA6Y
 
 https://youtu.be/4ZSGv9DJFy0
 
+### 데이터 로드 방법
+
+- 파일 위치: [week6 - cars_part_quality.csv](https://github.com/hrbae/DRB_ML_Training/blob/main/2022/week6/cars_part_quality.csv)
+
+```
+import pandas as pd
+df = pd.read_csv('https://raw.githubusercontent.com/hrbae/DRB_ML_Training/main/2022/week6/cars_part_quality.csv')
+```
 
 
 ## 추가 잠고자료: 더미변수를 활용한 회귀분석
 
 https://youtu.be/MENL8w0at6A
+
+### 데이터 로드 방법
+
+- 파일 위치: [week6 - car.csv](https://github.com/hrbae/DRB_ML_Training/blob/main/2022/week6/car.csv)
+
+```
+import pandas as pd
+df = pd.read_csv('https://raw.githubusercontent.com/hrbae/DRB_ML_Training/main/2022/week6/car.csv')
+```
+
