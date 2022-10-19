@@ -71,3 +71,34 @@ import pandas as pd
 df = pd.read_csv('https://raw.githubusercontent.com/hrbae/DRB_ML_Training/main/2022/week6/car.csv')
 ```
 
+
+
+
+6교시 로지스틱 회귀 시작부분 라이브러리 실행 코드(복사하셔서 사용하시면 됩니다.)
+```
+import numpy as np
+import pandas as pd
+
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import confusion_matrix
+
+import seaborn as sns
+import matplotlib.pyplot as plt
+import matplotlib.font_manager as fm
+
+plt.rc('font', familt = 'Malgul Gothic')
+```
+
+
+
+
+8교시 의사결정나무 시작부분 라이브러리 실행 코드(복사하셔서 사용하시면 됩니다.)
+```
+import os
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+from sklearn.model_selection import train_test_split
+```
